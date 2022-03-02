@@ -1,0 +1,12 @@
+.containerDivHomepage {
+  display: flex;
+  width: 100vw;
+  height: 90vh;
+  justify-content: center;
+  align-items: center;  
+}
+.textContainerDivHomepage {
+  width: 60vw;
+  height: auto;
+  text-align: center;
+}

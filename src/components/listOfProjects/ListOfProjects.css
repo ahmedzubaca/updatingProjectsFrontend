@@ -1,0 +1,11 @@
+.projectCategoryContainerDivList {  
+  margin-bottom: 1vh;
+  border: 1px solid gray;
+  padding: 1px;
+}
+.projectPropertySpanList {
+  font-weight:500;  
+}
+.projectTitleSpanList {
+  margin-top: 3vh;
+}
